@@ -1,2 +1,2 @@
 # ecellLatest
-(link)[https://scriptscrypt.github.io/ecellLatest/]
+[link](https://scriptscrypt.github.io/ecellLatest/)
